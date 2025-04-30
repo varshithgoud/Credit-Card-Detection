@@ -17,7 +17,8 @@ Random Forest	0.97
 Quick Start
 bash
 # Clone repository
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/varshithgoud/Credit-Card-Detection/
+
 
 # Install dependencies
 pip install -r requirements.txt
